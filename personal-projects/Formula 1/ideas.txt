@@ -1,0 +1,20 @@
+dataframe
+y axis: lap times
+x-axis: lap number 
+label:driver
+
+
+tyre chart:
+x axis: lap number or time into session
+y axis: driver 
+label: tyre colour
+
+using https://docs.fastf1.dev/core.html#fastf1.core.Laps to extract features: Driver, LapTime, LapNumber, Compound, TyreLife, FreshTyre 
+
+converting "Driver" to have colours using https://docs.fastf1.dev/plotting.html#fastf1.plotting.DRIVER_TRANSLATE and https://docs.fastf1.dev/plotting.html#fastf1.plotting.DRIVER_COLORS
+
+steps do it for 2 drivers then scale up
+
+striped https://stackoverflow.com/questions/46913184/how-to-make-a-striped-patch-in-matplotlib
+
+lap time with tyre compund below as a subplot

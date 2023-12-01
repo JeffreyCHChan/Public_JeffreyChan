@@ -1,0 +1,111 @@
+[
+ {
+  "Driver": "VER",
+  "Cost": 27
+ },
+ {
+  "Driver": "HAM",
+  "Cost": 23.7
+ },
+ {
+  "Driver": "LEC",
+  "Cost": 21.1
+ },
+ {
+  "Driver": "RUS",
+  "Cost": 18.6
+ },
+
+ {
+  "Driver": "PER",
+  "Cost": 18.1
+ },
+ {
+  "Driver": "SAI",
+  "Cost": 17.2
+ },
+ {
+  "Driver": "NOR",
+  "Cost": 11.1
+ },
+ {
+  "Driver": "OCO",
+  "Cost": 9.3
+ },
+ {
+  "Driver": "ALO",
+  "Cost": 8.5
+ },
+ {
+  "Driver": "GAS",
+  "Cost": 8.2
+ },
+ {
+  "Driver": "BOT",
+  "Cost": 7.8
+ },
+ {
+  "Driver": "STR",
+  "Cost": 7.6
+ },
+ {
+  "Driver": "PIA",
+  "Cost": 6.9
+ },
+ {
+  "Driver": "MAG",
+  "Cost": 6.7
+ },
+ {
+  "Driver": "ALB",
+  "Cost": 5.5
+ },
+ {
+  "Driver": "DEV",
+  "Cost": 5
+ },
+ {
+  "Driver": "ZHO",
+  "Cost": 4.9
+ },
+ {
+  "Driver": "TSU",
+  "Cost": 4.8
+ },
+ {
+  "Driver": "HUL",
+  "Cost": 4.2
+ },
+ {
+  "Driver": "SAR",
+  "Cost": 4
+ },
+ {
+  "Driver": "RIC",
+  "Cost": -1000
+ },
+ {
+  "Driver": "SCH",
+  "Cost": -1000
+ },
+ {
+  "Driver": "VET",
+  "Cost": -1000
+ },
+ {
+  "Driver": "FIT",
+  "Cost": -1000
+ },
+ {
+  "Driver": "KUB",
+  "Cost": -1000
+ },
+ {
+  "Driver": "KVY",
+  "Cost": -1000
+ },
+ {
+  "Driver": "LAT",
+  "Cost": -1000
+ }
+]
